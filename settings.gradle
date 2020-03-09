@@ -1,0 +1,2 @@
+rootProject.name='Country Quiz'
+include ':app'
